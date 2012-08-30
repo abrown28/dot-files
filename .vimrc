@@ -1,4 +1,4 @@
-" defaults
+" defaults2
 :set ts=4 sw=4 autoindent
 :set noexpandtab
 :set pastetoggle=<C-p>
