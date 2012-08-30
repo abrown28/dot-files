@@ -1,7 +1,7 @@
 " defaults
 :set ts=4 sw=4 autoindent
 :set noexpandtab
-:set pastetoggle=<F2>
+:set pastetoggle=<C-p>
 :set background=dark
 :set incsearch
 :set ignorecase
