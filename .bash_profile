@@ -13,4 +13,4 @@ alias vi='vim'
 
 export PATH
 
-export PS1="[\e[0;31m\h\e[0;37m \W]\$ "
+export PS1="[\e[0;31m\h\e[0;37m \W]\n\$ "
