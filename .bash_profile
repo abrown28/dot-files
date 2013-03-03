@@ -10,6 +10,7 @@ fi
 PATH=$PATH:$HOME/bin
 
 alias vi='vim'
+alias ll='ls -l'
 
 export PATH
 
