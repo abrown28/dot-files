@@ -15,3 +15,4 @@ alias ll='ls -l'
 export PATH
 
 export PS1="[\e[0;32m\h\e[0;37m \W]\n\$ "
+export HISTTIMEFORMAT="%d/%m/%y %T "
